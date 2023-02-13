@@ -1,3 +1,3 @@
 const array =[1,2,3,4,5,6];
 console.log(array.pop());
-console.log(array.push(45))
+console.log(array)
